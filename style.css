@@ -1,14 +1,26 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-.cabecalho{background-color: rgb(206, 62, 18);
-    color: rgb(0, 0, 0); 
-    display: flex;
-    justify-content: space-around;}
-   .cabecalho-imagem{width: 10%;}
-   .cabecalho-lista-item{
-       display: inline-block;
-       margin: 0 16px;
+header{background-color: rgb(206, 62, 18);
+    color: rgb(0, 0, 0);
+    display:flex;
+    justify - content: space-around;
+    padding: 24px 0 ;
+
 }
+    .cabecalho-imagem{
+        width: 20%;
+        height: 5%;
+    }
+    li {
+        display: inline-block;
+        margin:0 16px;
+        padding: 24px 0;
+        font-size: 24px;}
+h1
+{display:inline-block;
+   margin:0 16px;
+   padding:300px 0;
+   font-size: 40px;}
 
