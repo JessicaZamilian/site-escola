@@ -2,10 +2,10 @@
     margin: 0;
     padding: 0;
 }
-header{background-color: rgb(206, 62, 18);
-    color: rgb(0, 0, 0);
+header{background-color: red;
+    color: rgb(255, 252, 252);
     display:flex;
-    justify - content: space-around;
+    justify-content: space-around;
     padding: 24px 0 ;
 
 }
@@ -23,4 +23,17 @@ h1
    margin:0 16px;
    padding:300px 0;
    font-size: 40px;}
+
+.escola-imagem{
+    width: 10%;
+}
+ .escola{
+      background-image: linear-gradient( red, black);
+      color:rgb(255, 255, 255);
+      display: flex;  
+      justify-content: baseline;
+      align-items: center;
+      padding: 24px 0;
+ }
+                    
 
