@@ -25,7 +25,7 @@ h1
    font-size: 40px;}
 
 .escola-imagem{
-    width: 10%;
+    width: 20%;
 }
  .escola{
       background-image: linear-gradient( red, black);
@@ -33,7 +33,16 @@ h1
       display: flex;  
       justify-content: baseline;
       align-items: center;
-      padding: 24px 0;
- }
+      padding: 24px 0;}
                     
+    .escola-conteudo
+    {width: 60%;}
+
+    .escola{
+        padding: 50px 30px;}
+
+    .aluno1{
+        width: 10%;
+        height: 100%;
+    }
 
