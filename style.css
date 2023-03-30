@@ -42,7 +42,24 @@ h1
         padding: 50px 30px;}
 
     .aluno1{
-        width: 10%;
-        height: 100%;
+        width: 20%;
+        height: 30%;
     }
+    .estudante-icone{
+        width: 200px;
+    }
+     .estudante-div{
+        text-align: center;
 
+     }
+       
+     .aluno2{
+        width: 20%;
+        height: 20%;
+
+     }
+
+     .estudante-div2{ 
+
+       text-align: center;
+     }
