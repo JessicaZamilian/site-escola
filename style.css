@@ -81,4 +81,8 @@ h1
         display: grid;
         grid-template-columns: 25% 25% 25% 25%;
     }
+
+    .escola-texto-sete{
+        width: 90%;
+    }
     
